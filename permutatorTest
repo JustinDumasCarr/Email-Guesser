@@ -1,0 +1,7 @@
+import permutator
+
+permutatorInstance = permutator.Permutator()
+
+emails = permutatorInstance.permute("john",'doe',"","","gmail.com","yahoo.com","bmo.com")
+
+print(emails)

@@ -77,3 +77,5 @@ for index, row in SearchResultsDataframe.iterrows():
 
     #Then we combine all the possible combinations of name_permutations and domain names to get a list of around 200 possible emails for each person
 
+
+
